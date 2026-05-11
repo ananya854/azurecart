@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f82b76d9-b687-48aa-922f-d5460d14286e/resourceGroups/azurecart-rg/providers/Microsoft.Web/sites/azurecartfrontend847",
+    "appService.deploySubpath": "."
+}
